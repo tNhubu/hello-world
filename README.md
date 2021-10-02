@@ -1,4 +1,4 @@
 # hello-world
-ikm interested in blockchain implementation for underserved global communities
-i am a self learning tech entgusiast from Zimbabwe who is really fascinatedby imerging disruptive technologies.
+i am interested in blockchain tech implementation for underserved global communities.
+i am a self learning tech enthusiast from Zimbabwe who is really fascinated by imerging disruptive technologies.
 so eager to learn more, particularly blockchain.
